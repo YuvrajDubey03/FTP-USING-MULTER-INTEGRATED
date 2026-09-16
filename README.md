@@ -218,11 +218,9 @@ This project helps understand:
 
 ## 👨‍💻 Author
 
-**Yuvraj Dubey**
+**Yuvraj Dubey
 
-MCA Student | MERN Stack / Full-Stack Web Development Learner
-
----
+---t
 
 ## 📌 Note
 
